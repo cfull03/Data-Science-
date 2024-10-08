@@ -10,4 +10,4 @@ Technical Skills
     - Pandas
     - NumPy
     - Matplotlib
-    - Seanborn
+    - Seaborn
